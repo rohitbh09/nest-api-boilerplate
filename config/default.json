@@ -1,0 +1,7 @@
+{
+    "mongo": {
+        "user": "admin",
+        "pass": "admin6666",
+        "dbUrl": "cluster0.8nvxdqw.mongodb.net"
+    }
+}

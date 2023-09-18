@@ -1,0 +1,11 @@
+mongo:
+  user: 'admin'
+  pass: 'admin6666'
+  dbUrl: 'cluster0.8nvxdq2.mongodb.net'
+
+Redis:
+  host: 'redis-14503.c301.ap-south-1-1.ec2.cloud.redislabs.com'
+  user: 'default'
+  port: '14503'
+  pass: 'NshV6W73C3bBXa6iynud0jJIw2PY0kz2'
+  db: 'test'
